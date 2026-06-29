@@ -267,7 +267,7 @@ This dashboard enables Uber stakeholders to:
 Aspiring Data Analyst | Power BI | Data Analytics  
 
 📌 GitHub Repository:  
-[https://github.com/parlhad/Uber_Power-BI_Project](https://github.com/csantosh350/Uber-Data-Analsis)
+[[[https://github.com/csantosh350/Uber-Data-Analysis](https://github.com/csantosh350/Uber-Data-Analsis)]
 
 ---
 
